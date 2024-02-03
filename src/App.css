@@ -3,3 +3,28 @@
   background-color: rgb(232, 225, 213);
 }
 
+.btn-wrapper button {
+  background-color: rgb(68, 195, 68) ;
+  border: 0px;
+  padding: 1Opx;
+  border-radius: 4px;
+  color :#fff
+};
+.img-wrapper img{
+  width: 100px;
+  margin-top: -10px;
+  };
+
+.cart-wrapper item {
+  height: 100px;
+  width: 500px;
+  border: lpx solid #ccc;
+  margin-left: 10%; 
+  };
+.item {
+  float: left;
+  display: inline-block;
+  width: 120px;
+  padding: 20px;
+  height: 70px;
+  }
